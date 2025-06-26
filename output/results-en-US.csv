@@ -1,0 +1,7 @@
+Step ID,Screen ID,Expected String,OCR Output,Match Result
+P_1,Screen_stopped,Stopped,Stopped,PASS
+P_1,Screen_stopped,Continuous Rate,Continuous Rate,PASS
+P_2,Screen_continuous_running,100 mL,100 mL,PASS
+P_2,Screen_continuous_running,Running,Running,PASS
+P_3,Screen_taper_running,Taper,Taper,PASS
+P_3,Screen_taper_running,Tasks,Tasks,PASS
