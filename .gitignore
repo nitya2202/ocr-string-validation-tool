@@ -15,4 +15,5 @@ venv/
 Thumbs.db
 
 # Output files
-output/
+output/*
+!output/results-en-US.csv
