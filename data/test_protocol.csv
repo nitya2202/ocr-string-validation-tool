@@ -1,0 +1,7 @@
+StepID,ScreenID,ExpectedStringID
+P_1,Screen_stopped,String_Status_Stopped
+P_1,Screen_stopped,String_Continuous_Rate
+P_2,Screen_continuous_running,String_Volume
+P_2,Screen_continuous_running,String_Status_Running
+P_3,Screen_taper_running,String_Taper
+P_3,Screen_taper_running,String_Tasks

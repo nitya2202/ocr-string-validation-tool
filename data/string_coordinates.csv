@@ -1,0 +1,7 @@
+StepID,ScreenID,ExpectedStringID,Left,Top,Right,Bottom
+P_2,Screen_continuous_running,String_Volume,13,14,114,53
+P_2,Screen_continuous_running,String_Status_Running,228,17,356,54
+P_1,Screen_stopped,String_Status_Stopped,157,9,246,36
+P_1,Screen_stopped,String_Continuous_Rate,7,189,159,221
+P_3,Screen_taper_running,String_Taper,156,160,315,223
+P_3,Screen_taper_running,String_Tasks,434,497,523,536
